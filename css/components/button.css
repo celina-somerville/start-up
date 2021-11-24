@@ -1,0 +1,9 @@
+.btn-grey {
+	background-color: rgba(130, 130, 130, 0.5);
+	border-radius: 6px;
+	box-shadow: inset 1.5px 1.5px 0 0 rgba(255,255,255,0.2), inset -1.5px -1.5px 0 0 rgba(0,0,0,0.2);
+	padding: 10px 30px;
+	color: whitesmoke;
+	font-size: 15px;
+	font-family: Quicksand, sans-serif;
+}
